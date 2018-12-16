@@ -2,10 +2,10 @@
 ##### A Multifunction bot, You can use the bot to manage you're server, have fun and More!
 ## Futures
 
-- :small_blue_diamond: 24 Hours Working.
-- :small_blue_diamond: Fast Responsive.
-- :small_blue_diamond: Easy Usage.
-- :small_blue_diamond: Multitask.
+:large_blue_diamond: 24 Hours Working.
+:large_blue_diamond: Fast Responsive.
+:large_blue_diamond: Easy Usage.
+:large_blue_diamond: Multitask.
 
 ## Bot Functions
 - [ ] Moderation
