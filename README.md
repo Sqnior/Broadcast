@@ -1,5 +1,5 @@
 # Broadcast.
-##### A Multifunction bot, You can use the bot to manage you're server, have fun and More!
+##### A broadcast bot, and open source so you can make your own.
 ## Futures
 
 - [x] 24 Hours Working.
@@ -8,4 +8,4 @@
 - [x] Open source.
 - [x] Multitask.
 
-> For more information contact @! RG | YouseeeF .#9060
+> For more information contact **@! RG | YouseeeF .#9060**
