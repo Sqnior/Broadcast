@@ -4,8 +4,8 @@
 
 - [x] 24 Hours Working.
 - [x] Fast Responsive.
-- [x] Easy Usage.
 - [x] Open source.
-- [x] Multitask.
+- [x] Easy Usage.
 
+> The bot has 5+ broadcast commands.
 > For more information contact **@! RG | YouseeeF .#9060**
