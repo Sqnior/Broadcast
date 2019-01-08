@@ -16,7 +16,7 @@
 * Add the variable **BOT_TOKEN** with the value of your bot's token
 
 ### Steps.
-* Put the emojis in **Emojis** folder in a server*
+* Put the emojis in **Emojis** folder in a server
 * Name them as in the code
 * Put the server id in the config
 
