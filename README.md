@@ -15,6 +15,10 @@
 * Click on **Reveal Config Vars**
 * Add the variable **BOT_TOKEN** with the value of your bot's token
 
+### Tutorial.
+* [My Channel](https://www.youtube.com/channel/UC9nvvFCiB33oOV_Hr7fBhHw)
+* **I will post the tutorial video whenever i release the bot**
+
 ### Discord.
 * [Codes](https://discord.gg/UqFttvq)
 * [Royale](https://discord.gg/t9SvNF5)
