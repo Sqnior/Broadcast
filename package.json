@@ -1,0 +1,16 @@
+{
+  "name": "broadcast",
+  "version": "1.0.0",
+  "description": "Broadcast Open source bot, by @! RG | YouseeeF .#9060",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "chalk": "^2.4.2",
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
