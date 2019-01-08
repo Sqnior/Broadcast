@@ -23,5 +23,5 @@
 * [Codes](https://discord.gg/UqFttvq)
 * [Royale](https://discord.gg/t9SvNF5)
 
-> This bot uses export method
+#### Fact: This bot uses export method
 > For more information contact **@! RG | YouseeeF .#9060**
