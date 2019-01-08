@@ -6,8 +6,9 @@
 - [x] Easy Usage.
 
 ##### The bot has 5+ broadcast commands.
-> For more information contact **@! RG | YouseeeF .#9060**
 
 ### Discord.
 * [Codes](https://discord.gg/UqFttvq)
 * [Royale](https://discord.gg/t9SvNF5)
+
+> For more information contact **@! RG | YouseeeF .#9060**
