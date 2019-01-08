@@ -15,6 +15,11 @@
 * Click on **Reveal Config Vars**
 * Add the variable **BOT_TOKEN** with the value of your bot's token
 
+### Steps.
+* Put the emojis in **Emojis** folder in a server*
+* Name them as in the code
+* Put the server id in the config
+
 ### Tutorial.
 * [My Channel](https://www.youtube.com/channel/UC9nvvFCiB33oOV_Hr7fBhHw)
 * **I will post the tutorial video whenever i release the bot**
