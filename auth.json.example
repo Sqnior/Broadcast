@@ -1,0 +1,10 @@
+{
+    // If you are using heroku leave it at it is, if not change it into your bot's token.
+    "token": "heroku",
+    // The admins of the bot who can reload commands and send global messages.
+    "admins": ["12345678987654321"],
+    // The bot's prefix, Example: "&test" so the prefix here is &
+    "prefix": "!",
+    // The emojis server id
+    "emojisId": "12345678987654321"
+}
