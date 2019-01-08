@@ -17,7 +17,7 @@
 
 ### Steps.
 * Put the emojis in **Emojis** folder in a server
-* Name them as in the code
+* Name them as there names in the folder
 * Put the server id in the config
 
 ### Tutorial.
