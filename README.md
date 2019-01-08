@@ -5,10 +5,19 @@
 - [x] Open source.
 - [x] Easy Usage.
 
-##### The bot has 5+ broadcast commands.
+### Heroku.
+#### In case you want to use this bot in heroku:
+* Go to **auth.json**
+* Assign to the **token** value "heroku"
+* Then go to heroku
+* Make your app
+* Go to settings
+* Click on **Reveal Config Vars**
+* Add the variable **BOT_TOKEN** with the value of your bot's token
 
 ### Discord.
 * [Codes](https://discord.gg/UqFttvq)
 * [Royale](https://discord.gg/t9SvNF5)
 
+> This bot uses export method
 > For more information contact **@! RG | YouseeeF .#9060**
