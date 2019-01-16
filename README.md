@@ -22,7 +22,6 @@
 
 ### Tutorial.
 * [My Channel](https://www.youtube.com/channel/UC9nvvFCiB33oOV_Hr7fBhHw)
-* **I will post the tutorial video whenever i finnish my exams**
 
 ### Discord.
 * [Codes](https://discord.gg/UqFttvq)
